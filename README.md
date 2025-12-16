@@ -43,7 +43,7 @@ If you get anything out of this, I hope it’s not specific prompts or tactics, 
 - and keeping long projects from slowly going off the rails
 
 That’s it.
--- Slasaa
+-- bburd (Slasaa)
 
 ## 1. Context Control
 
